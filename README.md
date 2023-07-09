@@ -1,2 +1,2 @@
 # lab_assignment_7
-Bubble Sort
+Bubble Sort of an Array
